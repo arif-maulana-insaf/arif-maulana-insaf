@@ -1,16 +1,16 @@
 <!-- Banner Header with Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Zidan%20Mubarak%20👋&fontSize=60&animation=fadeIn&fontAlignY=40" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'Arif%20Maulana%20Insaf%20👋&fontSize=60&animation=fadeIn&fontAlignY=40" width="100%">
 </div>
 
 <!-- Profile Views Counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=zidanmubarak&style=flat&color=0e75b6" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=arifmaulanainsaf&style=flat&color=0e75b6" alt="Profile views counter"/>
 </p>
 
 <!-- Introduction with typing animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Zidan+Mubarak!;Information+Technology+Student;AI/ML+Engineer;Deep+Learning+Enthusiast;Always+Learning%2C+Always+Growing&center=true&width=380&height=45" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'Arif+Maulana+insaf!;Information+Technology+Student;AI/ML+Engineer;Deep+Learning+Enthusiast;Always+Learning%2C+Always+Growing&center=true&width=380&height=45" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <!-- About Me Section in a Container Box -->
@@ -22,7 +22,7 @@
       <li>🌱 I'm currently exploring <b>Advanced Deep Learning architectures and MLOps</b></li>
       <li>👯 I'm looking to collaborate on <b>Machine Learning and AI research projects</b></li>
       <li>💬 Ask me about <b>Machine Learning, Data Science, Python, TensorFlow</b></li>
-      <li>📫 How to reach me: <a href="https://www.linkedin.com/in/zidan-mubarak-87b880283/">LinkedIn</a></li>
+      <li>📫 How to reach me: <a href="https://www.linkedin.com/in/arif-maulana-insaf-b22732291/">LinkedIn</a></li>
       <li>⚡ Fun fact: <b>I love turning complex data into meaningful insights</b></li>
     </ul>
   </div>
@@ -45,11 +45,11 @@
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <!-- GitHub Stats Card -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Zidan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zidanmubarak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+      <img alt="Insaf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arif-maulana-insaf&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
     </a>
     <!-- Most Used Languages Card -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Zidan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanmubarak&layout=compact&langs_count=10&theme=radical&border_radius=10&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Zidan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-maulana-insaf&layout=compact&langs_count=10&theme=radical&border_radius=10&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a>
   </div>
   <br/>
@@ -62,7 +62,7 @@
   <br/>
   <div align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="Zidan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zidanmubarak&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+      <img alt="Insaf's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=arif-maulana-insaf&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
     </a>
   </div>
   <br/>
@@ -109,9 +109,9 @@
 <h2 align="center">🐍 My Contributions</h2>
 <div align="center" style="border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 15px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zidanmubarak/zidanmubarak/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zidanmubarak/zidanmubarak/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zidanmubarak/zidanmubarak/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arif-maulana-insaf/arif-maulana-insaf/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arif-maulana-insaf/arif-maulana-insaf/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arif-maulana-insaf/arif-maulana-insaf/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -152,13 +152,13 @@
 <h2 align="center">🌐 Connect with me</h2>
 <div align="center" style="border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 15px;">
   <p align="center">
-    <a href="https://www.linkedin.com/in/zidan-mubarak-87b880283/" target="_blank">
+    <a href="https://www.linkedin.com/in/arif-maulana-insaf-b22732291/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://github.com/zidanmubarak" target="_blank">
+    <a href="https://github.com/arif-maulana-insaf" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="mailto:zidanmubarak00@gmail.com" target="_blank">
+    <a href="mailto:maulanambo031@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
