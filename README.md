@@ -5,7 +5,7 @@
 
 <!-- Profile Views Counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=arifmaulanainsaf&style=flat&color=0e75b6" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=arif-maulana-insaf&style=flat&color=0e75b6" alt="Profile views counter"/>
 </p>
 
 <!-- Introduction with typing animation -->
@@ -32,7 +32,7 @@
 <div align="center" style="border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 15px;">
   <h3>🔥 Contribution Streak</h3>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zidanmubarak&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=arif-maulana-insaf&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
   </a>
 </div>
 
